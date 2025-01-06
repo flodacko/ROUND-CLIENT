@@ -26,4 +26,5 @@ Press [here](https://discord.com/channels/1325631611898695802/132563161238956043
 to be able to join the great community! Have fun and DONT ABUSE THIS MOD MENU!!!!!
 
 # [-----HOW TO DOWNLOAD-----]
-Press [here]
+Press [here](https://github.com/flodacko/ROUND-CLIENT/releases/tag/v1.0.0)
+to download
